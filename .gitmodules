@@ -1,3 +1,6 @@
 [submodule "nas-without-training"]
 	path = nas-without-training
 	url = https://github.com/jufi2112/nas-without-training
+[submodule "HpBandSter"]
+	path = HpBandSter
+	url = https://github.com/jufi2112/HpBandSter
